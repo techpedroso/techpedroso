@@ -22,14 +22,13 @@ Currently, I'm focused on strengthening my skills in software engineering, web d
 
 ## 📚 Learning
 
-* Spring Boot, Spring Security
 * Software Architecture
 * Design Patterns
 * System Design
 
 ## 💼 Projects
 
-Here are some projects that showcase my learning journey and development experience:
+I'm still bringing some projects to my new GitHub, so here are a few that showcase my learning journey and development experience:
 
 * Devfolio - Portfolio Website (I will release soon, but it is already in prod)
 * COS - Component Oriented System (loading...)
@@ -42,8 +41,8 @@ More projects can be found in my repositories.
 * To complete my degree in Computer Technician ✅
 * To complete my degree in Systems Analysis and Development (loading...)
 * Work on international development teams (loading...)
-* Contribute to open-source projects 
-* To keep becoming a better enginee 
+* Contribute to open-source projects (loading...)
+* To keep becoming a better enginee (loading...)
 
 ## 📫 Contact
 
