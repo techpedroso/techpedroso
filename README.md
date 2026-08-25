@@ -15,7 +15,7 @@ Currently, I'm focused on strengthening my skills in software engineering, web d
 
 * SCRUM, Sprints
 * Azure DevOps
-* Visual Studio 2022
+* Visual Studio Code and Visual Studio 2022
 * React
 * C# (.NET, EF, ASP.NET) // core and legacy
 * SQL Server, PostgreSQL
